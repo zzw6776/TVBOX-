@@ -681,11 +681,11 @@
     "key": "csp_Alist3",
     "name": "小雅搜索",
     "type": 3,
-    "api": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/网盘jar/小雅搜索.js",
+    "api": "https://ghproxy.com/https://raw.githubusercontent.com/zzw6776/TVBOX-/main/一木源/JAR/网盘jar/小雅搜索.js",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/网盘包/小雅搜索.json"
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zzw6776/TVBOX-/main/一木源/JSON/网盘包/小雅搜索.json"
   },
   {
     "key": "10",
