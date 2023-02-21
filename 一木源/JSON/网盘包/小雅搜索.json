@@ -1,6 +1,6 @@
 [{
 	"name": "小雅网盘",
-	"server": "http://alist.xiaoya.pro/",
+	"server": "http://siyuan.biz:55678/",
 	"startPage": "/",
 	"showAll": false,
 	"search": true,
